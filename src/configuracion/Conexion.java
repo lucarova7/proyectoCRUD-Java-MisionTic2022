@@ -16,6 +16,7 @@ public abstract class Conexion {
     protected Connection objConexion;
 
     public Conexion() {
+//        Aqui debes colocar tu datos de ingreso a MySql para poder que te sirve el codigo
 //        this.usuario = "root";
 //        this.clave = "misionTic2022";
 //        this.url = "jdbc:mysql://localhost:3306/bd_productos";
